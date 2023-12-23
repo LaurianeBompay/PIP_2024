@@ -8,17 +8,18 @@ Répertoire pour le projet inter-promo 2024
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <!--a href="#description-du-groupe">Description du groupe</a-->
+      <a href="#description-du-groupe">Description du groupe</a>
     </li>
     <li>
-      <!--a href="#travail-preparatoire">Travail préparatoire</a-->
+      <a href="#travail-preparatoire">Travail préparatoire</a>
     </li>
 </details>
 <br/>
 
-## Description du groupe test
+## Description du groupe 
 
-Le but est de construire un générateur de données qui a les mêmes caractéristiques que le jeu de données initial sans les données originelles. 
+Le but est de fournir une carte avec des zones à risque. L'élavuation des risques d'incendit est calculé sur le voisinnage. C'est-à-dire, on ne s'occupe pas de la configuration des batiments mêmes mais plutôt de la distance entre-eux, leur localisation (centre ville/ périférie etc), la densité de la zone etc
 
 ## Travail preparatoire 
-Vous trouverez le travail prépartoire dans le [dossier](/travail_preparatoire) prévu à cet effet. Il est constituté de notebooks, documentations, lectures et contient les Brown papers que nous avons réalisés. 
+Vous trouverez le travail prépartoire dans le [dossier](/Travail_preparatoire) prévu à cet effet. Il est constituté de notebooks, documentations et lectures.
+Les instructions sont données dans le fichier TODO.md
