@@ -8,10 +8,10 @@ Répertoire pour le projet inter-promo 2024
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <!--a href="#description-du-groupe">Description du groupe</a-->
+      <a href="#description-du-groupe">Description du groupe</a>
     </li>
     <li>
-      <!--a href="#travail-preparatoire">Travail préparatoire</a-->
+      <a href="#travail-preparatoire">Travail préparatoire</a>
     </li>
 </details>
 <br/>
