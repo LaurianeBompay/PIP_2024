@@ -14,6 +14,6 @@ Voici les prérequis recommandés :
   </li>
   <li> Lancer l'exemple d'utilisation de QGIS
   </li>
-  <li> [Facultatif] Suivre la formation git sur w3school [ici](https://www.w3schools.com/git/)
+  <li> [Facultatif] Suivre la formation git sur [w3school](<https://www.w3schools.com/git>)
   </li>
 </ol>
