@@ -25,7 +25,7 @@ Le but est de fournir une carte avec des zones à risque. L'élavuation des risq
 
 ## Travail preparatoire 
 Vous trouverez le travail prépartoire dans le [dossier](/Travail_preparatoire) prévu à cet effet. Il est constituté de notebooks, documentations et lectures.
-Les instructions sont données dans le fichier TODO.md
+Les instructions sont données dans le fichier README.md
 
 ## Données
 Malheureusement les données de la bd TOPO sont trop lourdes pour être ajoutées ici. Vous pouvez les téléchargées ici : <https://wxs.ign.fr/859x8t863h6a09o9o6fy4v60/telechargement/prepackage/BDTOPOV3-TOUSTHEMES-DEPARTEMENT-PACK_233$BDTOPO_3-3_TOUSTHEMES_SHP_LAMB93_D031_2023-09-15/file/BDTOPO_3-3_TOUSTHEMES_SHP_LAMB93_D031_2023-09-15.7z>
