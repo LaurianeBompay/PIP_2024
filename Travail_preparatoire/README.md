@@ -20,16 +20,16 @@ Voici les prérequis recommandés :
 
 Pour vous aider à mieux comprendre, vous trouverez :
 <ol> 
-  <ul> Un résumé du RDDECI -> Recap_RDDECI.pdf
+  <ul> Un résumé du RDDECI -> [Recap_RDDECI](/Travail_preparatoire/Recap_RDDECI.pdf)
   </ul>
-  <ul> Un résumé du chapitre 4 (sur les risques) du RDDECI -> Résumé_chapitre_4_RDDECI.pdf
+  <ul> Un résumé du chapitre 4 (sur les risques) du RDDECI -> [Résumé_chapitre_4_RDDECI.pdf](/Travail_preparatoire/Résumé_chapitre_4_RDDECI.pdf)
   </ul>
-  <ul> Une liste de méthodes de calcul des risques -> liste_calcul_risque.pdf
+  <ul> Une liste de méthodes de calcul des risques -> [liste_calcul_risque.pdf](/Travail_preparatoire/liste_calcul_risque.pdf)
   </ul>
-  <ul> Un notebook 'tuto' avec les principales manipulations qu'on va probablement être amené à faire muni d'un csv de test pour les visualisation (Noteboo_tuto_PIP_2024.ipynb + titanic.csv)
+  <ul> Un notebook 'tuto' avec les principales manipulations qu'on va probablement être amené à faire muni d'un csv de test pour les visualisations ([Notebook_tuto_PIP_2024.ipynb](/Travail_preparatoire/Notebook_tuto_PIP_2024.ipynb) + [titanic.csv](/Travail_preparatoire/titanic.csv))
   </ul>
-  <ul> Plusieurs fichier d'explication de la BD TOPO que vous trouverez dans le dossier BDTOPO_explications
+  <ul> Plusieurs fichier d'explication de la BD TOPO que vous trouverez dans le dossier [BDTOPO_explications](/Travail_preparatoire/BDTOPO_explications)
   </ul>
-  <ul> De la documentation sur QGIS et les fichiers nécessaires pour lancer l'exemple de test dans le dossier QGIS
+  <ul> De la documentation sur QGIS et les fichiers nécessaires pour lancer l'exemple de test dans le dossier [QGIS](/QGIS)
   </ul>
 </ol>
